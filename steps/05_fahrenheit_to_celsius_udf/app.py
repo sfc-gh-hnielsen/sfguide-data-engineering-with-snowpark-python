@@ -9,6 +9,7 @@
 # SNOWFLAKE ADVANTAGE: Python UDFs (with third-party packages)
 # SNOWFLAKE ADVANTAGE: SnowCLI (PuPr)
 
+# New comment test to force deployment
 import sys
 from scipy.constants import convert_temperature
 
